@@ -1,0 +1,33 @@
+_repo: The-Life-of-Kit-Carson--Hunter-Trapper-Guide-Indian-Agent-and-Colonel-U.S.A._7882
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ellis, Edward Sylvester
+    aliases:
+    - Ellis, Edward S. (Edward Sylvester)
+    - Ellis, E. S. (Edward Sylvester)
+    - Jayne, R. H.
+    birthdate: 1840
+    deathdate: 1916
+    gutenberg_agent_id: '2569'
+    url: http://www.gutenberg.org/2009/agents/2569
+description: ''
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2005-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7882'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'Scouting (Reconnaissance) -- West (U.S.) -- Biography'
+- !lcsh 'Carson Kit, 1809-1868'
+- !lcsh 'West (U.S.) -- History -- To 1848'
+- !lcsh 'Pioneers -- West (U.S.) -- Biography'
+- !lcsh 'Soldiers -- West (U.S.) -- Biography'
+- GITenberg
+title: 'The Life of Kit Carson: Hunter, Trapper, Guide, Indian Agent and Colonel U.S.A.'
+url: http://www.gutenberg.org/ebooks/7882
